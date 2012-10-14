@@ -22,8 +22,9 @@ namespace Funilaria
             if (txtBoxUsuario.Text == "teste" && txtSenha.Text == "teste")
             {
                 TelaPrincipal frm = new TelaPrincipal();
-                frm.Show();
-                this.Visible = false;
+                frm.ShowDialog();
+                //this.Visible = false;
+                this.Close();
             }
         }
 
