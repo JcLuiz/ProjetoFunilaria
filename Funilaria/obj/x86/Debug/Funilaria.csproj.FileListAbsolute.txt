@@ -1,0 +1,10 @@
+D:\ProjetoFunilaria\Funilaria\bin\Debug\Funilaria.exe
+D:\ProjetoFunilaria\Funilaria\bin\Debug\Funilaria.pdb
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\Funilaria.Properties.Resources.resources
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\Funilaria.exe
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\Funilaria.pdb
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\Funilaria.TelaPrincipal.resources
+D:\ProjetoFunilaria\Funilaria\obj\x86\Debug\Funilaria.TelaLogin.resources
